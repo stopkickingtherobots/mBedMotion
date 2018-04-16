@@ -1,0 +1,4 @@
+cd "/Users/bennzeppelin/OneDrive - Deakin University/2018/2018T1/SIT210 Embedded Device Development/Tasks/3.1P"
+git add .
+git commit -m "third"
+git push -u origin master
